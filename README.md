@@ -7,6 +7,9 @@ https://cdn.jsdelivr.net/gh/Yerikmiller/Countries-States-Cities-JSON@latest/all.
 ## Get only countries with flags:
 https://cdn.jsdelivr.net/gh/Yerikmiller/yerikmiller.github.io@latest/countries_flags_emoji/countries.json
 
+## Get only countries with no states:
+https://cdn.jsdelivr.net/gh/Yerikmiller/yerikmiller.github.io@latest/countries_flags_emoji/all_only_countries.json
+
 ## Get Single Country:
 Aruba
 https://cdn.jsdelivr.net/gh/Yerikmiller/Countries-States-Cities-JSON@latest/countries/ABW.json
