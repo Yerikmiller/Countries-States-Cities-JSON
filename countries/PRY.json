@@ -1,1 +1,329 @@
-{"name":"Paraguay","iso3":"PRY","iso2":"PY","phone_code":"595","capital":"Asuncion","currency":"PYG","currency_name":"Paraguayan guarani","currency_symbol":"₲","emoji":"🇵🇾","emojiU":"U+1F1F5 U+1F1FE","translations":{"kr":"파라과이","br":"Paraguai","pt":"Paraguai","nl":"Paraguay","hr":"Paragvaj","fa":"پاراگوئه","de":"Paraguay","es":"Paraguay","fr":"Paraguay","ja":"パラグアイ","it":"Paraguay","cn":"巴拉圭","tr":"Paraguay"},"states":[{"id":3,"name":"ALTO PARANA","state_code":"10","cities":["CEDRALES","CIUDAD DEL ESTE","COLONIA YGUAZU","DOMINGO MARTINEZ DE IRALA","HERNANDARIAS","IRUÑA","ITAKYRY","JUAN E. O'LEARY","JUAN LEON MALLORIQUIN","MINGA GUAZU","MINGA PORA","NARANJAL","NUEVA FORTUNA","PUERTO PDTE. FRANCO","SAN ALBERTO","SAN CRISTOBAL","SANTA FE DEL PARANA","SANTA RITA","SANTA ROSA DEL MONDAY"]},{"id":4,"name":"AMAMBAY","state_code":"13","cities":["BELLA VISTA NORTE","CAPITAN BADO","PEDRO JUAN CABALLERO","SANJA PYTA"]},{"id":1,"name":"ASUNCION","state_code":"0","cities":["ASUNCION"]},{"id":5,"name":"BOQUERON","state_code":"16","cities":["FILADELFIA","LOMA PLATA"]},{"id":6,"name":"CAAGUAZU","state_code":"5","cities":["CAAGUAZU","CAMPO 9","CARAYAO","CECILIO BAEZ","CORONEL OVIEDO","JUAN MANUEL FRUTOS (PASTOREO)","NUEVA LONDRES","REPATRIACION","RI 3 CORRALES","SAN JOAQUIN","SAN JOSE DE LOS ARROYOS","SANTA ROSA DEL MBUTUY","SIMON BOLIVAR","VAQUERIA","YHU"]},{"id":7,"name":"CAAZAPA","state_code":"6","cities":["BUENA VISTA","CAAZAPA","FULGENCIO YEGROS","HIGINIO MORINIGO","MACIEL","MOISES BERTONI","SAN JUAN NEPOMUCENO","YUTY"]},{"id":8,"name":"CANINDEYU","state_code":"14","cities":["CORPUS CHRISTI","CURUGUATY","KATUETE","LA PALOMA","NUEVA ESPERANZA","PUENTE KYHA","SALTO DEL GUAIRA"]},{"id":2,"name":"CENTRAL","state_code":"11","cities":["AREGUA","CAPIATA","FERNANDO DE LA MORA","GUARAMBARE","ITA","ITAGUA","JOSE AGUSTO SALDIVAR","LAMBARE","LIMPIO","LUQUE","MARIANO ROQUE ALONSO","ÑEMBY","NUEVA ITALIA","SAN ANTONIO","SAN LORENZO","VILLA ELISA","VILLETA","YPACARAI","YPANE"]},{"id":9,"name":"CONCEPCION","state_code":"1","cities":["AZOTEY","BELEN","CONCEPCION","HORQUETA","LORETO","PASO BARRETO","VALLEMI","YBY YA'U"]},{"id":10,"name":"CORDILLERA","state_code":"3","cities":["1RO. DE MARZO","ALTOS","ARROYOS Y ESTEROS","ATYRA","CAACUPE","CARAGUATAY","EUSEBIO AYALA","ISLA PUCU","ITACURUBI DE LA CORDILLERA","PIRIBEBUY","SAN BERNARDINO","SAN JOSE OBRERO","SANTA ELENA","TOBATI","VALENZUELA"]},{"id":11,"name":"GUAIRA","state_code":"4","cities":["BORJA","COLONIA INDEPENDENCIA","CORONEL MARTINEZ","DR. BOTREL","EUGENIO A. GARAY","FELIX PEREZ CARDOZO","ITAPE","ITURBE","JOSE FASSARDI","MAURICIO JOSE TROCHE","MBOCAYATY","NATALICIO TALAVERA","ÑUMI","PASO YOBAI","SAN SALVADOR","TEBICUARY","VILLARRICA"]},{"id":12,"name":"ITAPUA","state_code":"7","cities":["BELLA VISTA SUR","CAMBYRETA","CAPITAN MEZA","CAPITAN MIRANDA","CARMEN DEL PARANA","COLONIA FRAM","CORONEL BOGADO","EDELIRA","EDELIRA 28","ENCARNACION","GRAL. . ARTIGAS","GRAL. DELGADO","HOHENAU","KIMEX (COLONIA CARLOS A. LOPEZ)","LA PAZ","MARIA AUXILIADORA","MAYOR OTAÑO","NATALIO","OBLIGADO","PIRAPO","SAN COSME Y DAMIAN","SAN JUAN DEL PARANA","SAN PEDRO DEL PARANA","SAN RAFAEL DEL PARANA","TOMAS ROMERO PEREIRA","YATYTAY"]},{"id":13,"name":"MISIONES","state_code":"8","cities":["AYOLAS","SAN IGNACIO MISIONES","SAN JUAN BAUTISTA","SAN PATRICIO","SANTA MARIA MISIONES","SANTA ROSA MISIONES","SANTIAGO MISIONES"]},{"id":14,"name":"ÑEEMBUCU","state_code":"12","cities":["ALBERDI","PILAR","VILLA OLIVA"]},{"id":15,"name":"PARAGUARI","state_code":"9","cities":["ACAHAY","CABALLERO","CARAPEGUA","ESCOBAR","LA COLMENA","PARAGUARI","PIRAYU","QUIINDY","SAN ROQUE GONZALEZ","SAPUCAI","YAGUARON","YBYCUI","YBYTYMI"]},{"id":18,"name":"PRESIDENTE HAYES","state_code":"15","cities":["BENJAMIN ACEVAL","VILLA HAYES"]},{"id":17,"name":"SAN PEDRO","state_code":"2","cities":["25 DE DICIEMBRE","ANTEQUERA","CAPIIBARY","CHORE","GENERAL ELIZARDO AQUINO","GENERAL FRANCISCO ISIDORO RESQUIN","GUAYAYBI","ITACURUBI DEL ROSARIO","LIBERACION","LIMA","PUERTO ROSARIO","SAN PEDRO DEL YCUAMANDIYU","SANTANI","SANTA ROSA DEL AGUARAY","UNION"]}]}
+{
+    "name": "Paraguay",
+    "iso3": "PRY",
+    "iso2": "PY",
+    "phone_code": "595",
+    "capital": "Asuncion",
+    "currency": "PYG",
+    "currency_name": "Paraguayan guarani",
+    "currency_symbol": "₲",
+    "emoji": "🇵🇾",
+    "emojiU": "U+1F1F5 U+1F1FE",
+    "translations": {
+        "kr": "파라과이",
+        "br": "Paraguai",
+        "pt": "Paraguai",
+        "nl": "Paraguay",
+        "hr": "Paragvaj",
+        "fa": "پاراگوئه",
+        "de": "Paraguay",
+        "es": "Paraguay",
+        "fr": "Paraguay",
+        "ja": "パラグアイ",
+        "it": "Paraguay",
+        "cn": "巴拉圭",
+        "tr": "Paraguay"
+    },
+    "states": [
+        {
+            "id": 3,
+            "name": "ALTO PARANA",
+            "state_code": "10",
+            "cities": [
+                "CEDRALES",
+                "CIUDAD DEL ESTE",
+                "COLONIA YGUAZU",
+                "DOMINGO MARTINEZ DE IRALA",
+                "HERNANDARIAS",
+                "IRUÑA",
+                "ITAKYRY",
+                "JUAN E. O'LEARY",
+                "JUAN LEON MALLORIQUIN",
+                "MINGA GUAZU",
+                "MINGA PORA",
+                "NARANJAL",
+                "NUEVA FORTUNA",
+                "PUERTO PDTE. FRANCO",
+                "SAN ALBERTO",
+                "SAN CRISTOBAL",
+                "SANTA FE DEL PARANA",
+                "SANTA RITA",
+                "SANTA ROSA DEL MONDAY"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "AMAMBAY",
+            "state_code": "13",
+            "cities": [
+                "BELLA VISTA NORTE",
+                "CAPITAN BADO",
+                "PEDRO JUAN CABALLERO",
+                "SANJA PYTA"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "ASUNCION",
+            "state_code": "0",
+            "cities": [
+                "ASUNCION"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "BOQUERON",
+            "state_code": "16",
+            "cities": [
+                "FILADELFIA",
+                "LOMA PLATA"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "CAAGUAZU",
+            "state_code": "5",
+            "cities": [
+                "CAAGUAZU",
+                "CAMPO 9",
+                "CARAYAO",
+                "CECILIO BAEZ",
+                "CORONEL OVIEDO",
+                "JUAN MANUEL FRUTOS (PASTOREO)",
+                "NUEVA LONDRES",
+                "REPATRIACION",
+                "RI 3 CORRALES",
+                "SAN JOAQUIN",
+                "SAN JOSE DE LOS ARROYOS",
+                "SANTA ROSA DEL MBUTUY",
+                "SIMON BOLIVAR",
+                "VAQUERIA",
+                "YHU"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "CAAZAPA",
+            "state_code": "6",
+            "cities": [
+                "BUENA VISTA",
+                "CAAZAPA",
+                "FULGENCIO YEGROS",
+                "HIGINIO MORINIGO",
+                "MACIEL",
+                "MOISES BERTONI",
+                "SAN JUAN NEPOMUCENO",
+                "YUTY"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "CANINDEYU",
+            "state_code": "14",
+            "cities": [
+                "CORPUS CHRISTI",
+                "CURUGUATY",
+                "KATUETE",
+                "LA PALOMA",
+                "NUEVA ESPERANZA",
+                "PUENTE KYHA",
+                "SALTO DEL GUAIRA"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "CENTRAL",
+            "state_code": "11",
+            "cities": [
+                "AREGUA",
+                "CAPIATA",
+                "FERNANDO DE LA MORA",
+                "GUARAMBARE",
+                "ITA",
+                "ITAGUA",
+                "JOSE AGUSTO SALDIVAR",
+                "LAMBARE",
+                "LIMPIO",
+                "LUQUE",
+                "MARIANO ROQUE ALONSO",
+                "ÑEMBY",
+                "NUEVA ITALIA",
+                "SAN ANTONIO",
+                "SAN LORENZO",
+                "VILLA ELISA",
+                "VILLETA",
+                "YPACARAI",
+                "YPANE"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "CONCEPCION",
+            "state_code": "1",
+            "cities": [
+                "AZOTEY",
+                "BELEN",
+                "CONCEPCION",
+                "HORQUETA",
+                "LORETO",
+                "PASO BARRETO",
+                "VALLEMI",
+                "YBY YA'U"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "CORDILLERA",
+            "state_code": "3",
+            "cities": [
+                "1RO. DE MARZO",
+                "ALTOS",
+                "ARROYOS Y ESTEROS",
+                "ATYRA",
+                "CAACUPE",
+                "CARAGUATAY",
+                "EUSEBIO AYALA",
+                "ISLA PUCU",
+                "ITACURUBI DE LA CORDILLERA",
+                "PIRIBEBUY",
+                "SAN BERNARDINO",
+                "SAN JOSE OBRERO",
+                "SANTA ELENA",
+                "TOBATI",
+                "VALENZUELA"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "GUAIRA",
+            "state_code": "4",
+            "cities": [
+                "BORJA",
+                "COLONIA INDEPENDENCIA",
+                "CORONEL MARTINEZ",
+                "DR. BOTREL",
+                "EUGENIO A. GARAY",
+                "FELIX PEREZ CARDOZO",
+                "ITAPE",
+                "ITURBE",
+                "JOSE FASSARDI",
+                "MAURICIO JOSE TROCHE",
+                "MBOCAYATY",
+                "NATALICIO TALAVERA",
+                "ÑUMI",
+                "PASO YOBAI",
+                "SAN SALVADOR",
+                "TEBICUARY",
+                "VILLARRICA"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "ITAPUA",
+            "state_code": "7",
+            "cities": [
+                "BELLA VISTA SUR",
+                "CAMBYRETA",
+                "CAPITAN MEZA",
+                "CAPITAN MIRANDA",
+                "CARMEN DEL PARANA",
+                "COLONIA FRAM",
+                "CORONEL BOGADO",
+                "EDELIRA",
+                "EDELIRA 28",
+                "ENCARNACION",
+                "GRAL. . ARTIGAS",
+                "GRAL. DELGADO",
+                "HOHENAU",
+                "KIMEX (COLONIA CARLOS A. LOPEZ)",
+                "LA PAZ",
+                "MARIA AUXILIADORA",
+                "MAYOR OTAÑO",
+                "NATALIO",
+                "OBLIGADO",
+                "PIRAPO",
+                "SAN COSME Y DAMIAN",
+                "SAN JUAN DEL PARANA",
+                "SAN PEDRO DEL PARANA",
+                "SAN RAFAEL DEL PARANA",
+                "TOMAS ROMERO PEREIRA",
+                "YATYTAY"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "MISIONES",
+            "state_code": "8",
+            "cities": [
+                "AYOLAS",
+                "SAN IGNACIO MISIONES",
+                "SAN JUAN BAUTISTA",
+                "SAN PATRICIO",
+                "SANTA MARIA MISIONES",
+                "SANTA ROSA MISIONES",
+                "SANTIAGO MISIONES"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "ÑEEMBUCU",
+            "state_code": "12",
+            "cities": [
+                "ALBERDI",
+                "PILAR",
+                "VILLA OLIVA"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PARAGUARI",
+            "state_code": "9",
+            "cities": [
+                "ACAHAY",
+                "CABALLERO",
+                "CARAPEGUA",
+                "ESCOBAR",
+                "LA COLMENA",
+                "PARAGUARI",
+                "PIRAYU",
+                "QUIINDY",
+                "SAN ROQUE GONZALEZ",
+                "SAPUCAI",
+                "YAGUARON",
+                "YBYCUI",
+                "YBYTYMI"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "PRESIDENTE HAYES",
+            "state_code": "15",
+            "cities": [
+                "BENJAMIN ACEVAL",
+                "VILLA HAYES"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "SAN PEDRO",
+            "state_code": "2",
+            "cities": [
+                "25 DE DICIEMBRE",
+                "ANTEQUERA",
+                "CAPIIBARY",
+                "CHORE",
+                "GENERAL ELIZARDO AQUINO",
+                "GENERAL FRANCISCO ISIDORO RESQUIN",
+                "GUAYAYBI",
+                "ITACURUBI DEL ROSARIO",
+                "LIBERACION",
+                "LIMA",
+                "PUERTO ROSARIO",
+                "SAN PEDRO DEL YCUAMANDIYU",
+                "SANTANI",
+                "SANTA ROSA DEL AGUARAY",
+                "UNION"
+            ]
+        }
+    ]
+}
