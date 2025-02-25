@@ -42,7 +42,8 @@
         "SIERRA GORDA",
         "TALTAL",
         "TOCOPILLA"
-      ]
+      ],
+      "state_code": "2"
     },
     {
       "id": 13,
@@ -82,7 +83,8 @@
         "VICTORIA",
         "VILCUN",
         "VILLARRICA"
-      ]
+      ],
+      "state_code": "9"
     },
     {
       "id": 2,
@@ -94,7 +96,8 @@
         "CAMARONES",
         "GENERAL LAGOS",
         "PUTRE"
-      ]
+      ],
+      "state_code": "15"
     },
     {
       "id": 5,
@@ -112,7 +115,8 @@
         "HUASCO",
         "TIERRA AMARILLA",
         "VALLENAR"
-      ]
+      ],
+      "state_code": "3"
     },
     {
       "id": 16,
@@ -130,7 +134,8 @@
         "OHIGGINS",
         "RIO IBANEZ",
         "TORTEL"
-      ]
+      ],
+      "state_code": "11"
     },
     {
       "id": 12,
@@ -171,7 +176,8 @@
         "TOME",
         "TUCAPEL",
         "YUMBEL"
-      ]
+      ],
+      "state_code": "8"
     },
     {
       "id": 6,
@@ -194,7 +200,8 @@
         "RIO HURTADO",
         "SALAMANCA",
         "VICUNA"
-      ]
+      ],
+      "state_code": "4"
     },
     {
       "id": 9,
@@ -237,7 +244,8 @@
         "SAN FERNANDO",
         "SANTA CRUZ",
         "SAN VICENTE"
-      ]
+      ],
+      "state_code": "6"
     },
     {
       "id": 15,
@@ -275,7 +283,8 @@
         "RIO NEGRO",
         "SAN JUAN DE LA COSTA",
         "SAN PABLO"
-      ]
+      ],
+      "state_code": "10"
     },
     {
       "id": 14,
@@ -295,7 +304,8 @@
         "PANGUIPULLI",
         "RIO BUENO",
         "VALDIVIA"
-      ]
+      ],
+      "state_code": "14"
     },
     {
       "id": 17,
@@ -314,7 +324,8 @@
         "SAN GREGORIO",
         "TIMAUKEL",
         "TORRES DEL PAINE"
-      ]
+      ],
+      "state_code": "12"
     },
     {
       "id": 10,
@@ -352,7 +363,8 @@
         "VICHUQUEN",
         "VILLA ALEGRE",
         "YERBAS BUENAS"
-      ]
+      ],
+      "state_code": "7"
     },
     {
       "id": 8,
@@ -412,7 +424,8 @@
         "TALAGANTE",
         "TILTIL",
         "VITACURA"
-      ]
+      ],
+      "state_code": "13"
     },
     {
       "id": 11,
@@ -441,7 +454,8 @@
         "SAN NICOLAS",
         "TREHUACO",
         "YUNGAY"
-      ]
+      ],
+      "state_code": "16"
     },
     {
       "id": 3,
@@ -457,7 +471,8 @@
         "PICA",
         "POZO ALMONTE",
         "TARAPACA"
-      ]
+      ],
+      "state_code": "1"
     },
     {
       "id": 7,
@@ -505,7 +520,8 @@
         "VILLA ALEMANA",
         "VINA DEL MAR",
         "ZAPALLAR"
-      ]
+      ],
+      "state_code": "5"
     }
   ]
 }
